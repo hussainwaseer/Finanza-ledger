@@ -120,6 +120,7 @@ Finanza/
 ## 👥 Authors
 
 - **Muhammad Hussain Waseer**
+- **Showzib Ali Mangi**
 
 
 ---
